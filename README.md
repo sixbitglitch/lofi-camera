@@ -43,6 +43,7 @@ Each camera comes with:
 ### **Example Output**
 
 ![Agfa35 Window Photo](agfa25_window_photo.png)
+
 *Example image captured with the Agfa35 camera - a 35-pixel (7×5) grayscale image showing a window with light streaming through*
 
 ### **Requirements**
