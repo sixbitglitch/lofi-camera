@@ -1,0 +1,17 @@
+# Arduino IDE build files
+build/
+*.eep
+*.elf
+*.hex
+*.bin
+*.with_bootloader.*
+
+# Arduino IDE preferences
+preferences.txt
+
+# Temporary files
+*.tmp
+*.temp
+
+# macOS
+.DS_Store
